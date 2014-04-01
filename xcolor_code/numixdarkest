@@ -9,29 +9,29 @@
 *color8:    #888888
 
 !Red
-*color1:    #d64937
-*color9:    #9C3528
+*color1:    #9C3528
+*color9:    #d64937
 
 !Green
-*color2:    #86DF5D
-*color10:   #61BC3B
+*color2:    #61BC3B
+*color10:   #86DF5D
 
 !yellow
-*color3:    #FDD75A
-*color11:   #F3B43A
+*color3:    #F3B43A
+*color11:   #FDD75A
 
 !blue
-*color4:    #0F75BD
-*color12:   #0D68A8
+*color4:    #0D68A8
+*color12:   #0F75BD
 
 !Magenta
-*color5:    #9E5E83
-*color13:   #744560
+*color5:    #744560
+*color13:   #9E5E83
 
 !Cyan
-*color6:    #37c3d6
-*color14:   #288e9c
+*color6:    #288e9c
+*color14:   #37c3d6
 
 !White
-*color7:    #f9f9f9
-*color15:   #A2A2A2
+*color7:    #A2A2A2
+*color15:   #f9f9f9
